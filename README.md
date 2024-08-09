@@ -1,9 +1,22 @@
-A book is a collection of written or printed pages, serving various purposes like education, entertainment, and communication. It has evolved through manuscripts, printed books, and electronic formats. Books impact society, shaping cultures, influencing norms, and contributing to intellectual development, with notable authors like Shakespeare and Dickens.
+**Trending Books EDA**
 
-This dataset provides a comprehensive analysis of Amazon's top 100 Bestselling books, including their titles, prices, ratings, author(s), year of publication, genre, and URL. It includes information on the book's rank, title, price, rating, author(s), genre, and web link to the book's page on Amazon.
+Books have evolved from manuscripts to printed copies and now to electronic formats, serving purposes such as education, entertainment, and communication. They play a significant role in shaping cultures, influencing norms, and contributing to intellectual development. This dataset focuses on Amazon’s Top 100 Bestselling Books, offering a detailed look into popular literature.
 
+Dataset
+The dataset, "Top-100 Trending Books.csv," provides a comprehensive analysis of Amazon’s bestselling books. It includes:
 
-Conclusions:
- • The Ballad of Songbirds and Snakes (A Hunger Games Novel) was more published.
- • Sarah J. Maas's book was more published.
- • Non-fiction books were more published.
+  - Rank: The book’s rank on the bestseller list.
+  - Title: The title of the book.
+  - Price: The book’s price.
+  - Rating: The book’s rating on Amazon.
+  - Author(s): The author or authors of the book.
+  - Year of Publication: The year the book was published.
+  - Genre: The genre of the book.
+  - URL: Web link to the book’s Amazon page.
+
+**Conclusions**
+From the exploratory data analysis, we derived the following insights:
+
+  - Most Published Book: "The Ballad of Songbirds and Snakes (A Hunger Games Novel)" had the highest number of publications.
+  - Most Published Author: Books by Sarah J. Maas were more frequently published.
+  - Genre Trends: Non-fiction books were more prominently published compared to fiction.
